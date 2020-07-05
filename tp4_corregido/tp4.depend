@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1593298353 source:c:\users\juan pablo\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pokemon.h"
+
+1593022274 c:\users\juan pablo\desktop\tp4\linkedlist.h
+
+1593296155 c:\users\juan pablo\desktop\tp4\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593298294 source:c:\users\juan pablo\desktop\tp4\pokemon.c
+	"pokemon.h"
+	"utn_biblioteca.h"
+
+1591927741 c:\users\juan pablo\desktop\tp4\utn_biblioteca.h
+
+1591927741 source:c:\users\juan pablo\desktop\tp4\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
+1593128618 source:c:\users\juan pablo\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593541999 source:c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593541999 c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\linkedlist.h
+
+1593971224 source:c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pokemon.h"
+
+1593971138 c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593972292 source:c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\pokemon.c
+	"pokemon.h"
+	"utn_biblioteca.h"
+
+1593541999 c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\utn_biblioteca.h
+
+1593541999 source:c:\users\juan pablo\desktop\tp_laboratorio_1\tp4\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
+1593980759 source:c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593980759 c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\linkedlist.h
+
+1593980759 source:c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pokemon.h"
+
+1593980984 c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\pokemon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593980759 source:c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\pokemon.c
+	"pokemon.h"
+	"utn_biblioteca.h"
+
+1593980759 c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\utn_biblioteca.h
+
+1593980759 source:c:\users\juan pablo\desktop\dossantos.tps-master\tp4_corregido\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+
